@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nitai Chandra Banik
 - 👀 I’m interested in problem solving
-- 🌱 I’m currently learning nestjs, blockahcain, etherium
+- 🌱 I’m currently learning nestjs, blockachain, etherium
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
